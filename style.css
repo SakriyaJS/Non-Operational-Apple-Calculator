@@ -1,0 +1,43 @@
+    #Container {
+        height: 600px;
+        width: 350px;
+        background-color: black;
+        border-radius: 7%;
+        justify-content: center;
+        display: inline;
+    }
+
+    body{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    div {
+        display:inline-flex;
+        color: black; 
+        height: 71px;
+        width: 71px;
+        border-radius: 50%;
+        background-color:white;
+        word-spacing: 10px;
+        padding-left: 2px;
+        text-align: center;
+        font-size: 20px;
+        justify-content: center;
+        align-items: center;
+        
+        
+
+    }
+
+    .DarkLIver {
+        background-color: #505050;
+    }
+
+    .Gray {
+        background-color: #D4D4D2;
+    }
+
+    .VividGamboge {
+        background-color: #FF9500;
+    }
